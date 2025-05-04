@@ -19,6 +19,17 @@ A comprehensive fleet management system built with modern web technologies to ma
 - **Editing**: Option to edit vehicles and data from other lists.
 - **Bulk Upload**: Option to bulk upload data, can be from a CSV file.
 
+---
+
+## Assumptions:
+
+- Every vehicle has a unique ID (currently generated on form submit).
+- Every vehicle has an assigned driver.
+- Maintenance history is a list for one vehicle.
+- Usage analytics is mocked data displayed in animated charts.
+
+---
+
 ## Technologies Used
 
 - **Frontend**: React, TypeScript, Tailwind CSS, Shadcn UI
