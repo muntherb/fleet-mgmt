@@ -2,6 +2,10 @@
 
 A comprehensive fleet management system built with modern web technologies to manage vehicles, maintenance records, location statuses, and analytics.
 
+The project has been deployed with MongoDB as a demo on: https://fleet-mgmt-production.up.railway.app
+
+---
+
 ## Features
 
 - **Vehicle Management**: Add, update, and view vehicle details such as model, type, status, and more.
@@ -113,17 +117,21 @@ The project includes unit tests for critical components and state management:
 
 1. **Run tests**:
    ```bash
+   cd next-app
    npm test
    ```
 
 2. **Test coverage**:
    ```bash
+   cd next-app
    npm run test:coverage
    ```
 
 ---
 
 ## API Endpoints
+
+- APIs have schema validation and error handling.
 
 ### Vehicles
 - **GET** `/api/vehicles`: Fetch all vehicles.
