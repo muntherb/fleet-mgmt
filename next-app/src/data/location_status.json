@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 41,
+    "heading": "SE"
+  },
+  {
+    "id": 2,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 42,
+    "heading": "NW"
+  },
+  {
+    "id": 3,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 43,
+    "heading": "SE"
+  },
+  {
+    "id": 4,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 44,
+    "heading": "NW"
+  },
+  {
+    "id": 5,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 45,
+    "heading": "SE"
+  },
+  {
+    "id": 6,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 46,
+    "heading": "NW"
+  },
+  {
+    "id": 7,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 47,
+    "heading": "SE"
+  },
+  {
+    "id": 8,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 48,
+    "heading": "NW"
+  },
+  {
+    "id": 9,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 49,
+    "heading": "SE"
+  },
+  {
+    "id": 10,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 50,
+    "heading": "NW"
+  },
+  {
+    "id": 11,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 51,
+    "heading": "SE"
+  },
+  {
+    "id": 12,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 52,
+    "heading": "NW"
+  },
+  {
+    "id": 13,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 53,
+    "heading": "SE"
+  },
+  {
+    "id": 14,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 54,
+    "heading": "NW"
+  },
+  {
+    "id": 15,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 55,
+    "heading": "SE"
+  },
+  {
+    "id": 16,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 56,
+    "heading": "NW"
+  },
+  {
+    "id": 17,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 57,
+    "heading": "SE"
+  },
+  {
+    "id": 18,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 58,
+    "heading": "NW"
+  },
+  {
+    "id": 19,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 59,
+    "heading": "SE"
+  },
+  {
+    "id": 20,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 40,
+    "heading": "NW"
+  },
+  {
+    "id": 21,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 41,
+    "heading": "SE"
+  },
+  {
+    "id": 22,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 42,
+    "heading": "NW"
+  },
+  {
+    "id": 23,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 43,
+    "heading": "SE"
+  },
+  {
+    "id": 24,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 44,
+    "heading": "NW"
+  },
+  {
+    "id": 25,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 45,
+    "heading": "SE"
+  },
+  {
+    "id": 26,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 46,
+    "heading": "NW"
+  },
+  {
+    "id": 27,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 47,
+    "heading": "SE"
+  },
+  {
+    "id": 28,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 48,
+    "heading": "NW"
+  },
+  {
+    "id": 29,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 49,
+    "heading": "SE"
+  },
+  {
+    "id": 30,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 50,
+    "heading": "NW"
+  },
+  {
+    "id": 31,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 51,
+    "heading": "SE"
+  },
+  {
+    "id": 32,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 52,
+    "heading": "NW"
+  },
+  {
+    "id": 33,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 53,
+    "heading": "SE"
+  },
+  {
+    "id": 34,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 54,
+    "heading": "NW"
+  },
+  {
+    "id": 35,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 55,
+    "heading": "SE"
+  },
+  {
+    "id": 36,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 56,
+    "heading": "NW"
+  },
+  {
+    "id": 37,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 57,
+    "heading": "SE"
+  },
+  {
+    "id": 38,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 58,
+    "heading": "NW"
+  },
+  {
+    "id": 39,
+    "city": "Dubai",
+    "country": "UAE",
+    "status": "inactive",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 59,
+    "heading": "SE"
+  },
+  {
+    "id": 40,
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "status": "active",
+    "lastUpdated": "2025-05-01T20:26:46.609582",
+    "speed": 40,
+    "heading": "NW"
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "totalDistanceKm": 20100,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1010,
+        "engineHours": 101
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 908,
+        "engineHours": 91
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1105,
+        "engineHours": 96
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1005,
+      "2025-02": 954,
+      "2025-03": 986
+    },
+    "averageFuelEfficiency": 2.6
+  },
+  {
+    "id": 2,
+    "totalDistanceKm": 20200,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1020,
+        "engineHours": 102
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 916,
+        "engineHours": 92
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1110,
+        "engineHours": 97
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1010,
+      "2025-02": 958,
+      "2025-03": 992
+    },
+    "averageFuelEfficiency": 2.7
+  },
+  {
+    "id": 3,
+    "totalDistanceKm": 20300,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1030,
+        "engineHours": 103
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 924,
+        "engineHours": 93
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1115,
+        "engineHours": 98
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1015,
+      "2025-02": 962,
+      "2025-03": 998
+    },
+    "averageFuelEfficiency": 2.8
+  },
+  {
+    "id": 4,
+    "totalDistanceKm": 20400,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1040,
+        "engineHours": 104
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 932,
+        "engineHours": 94
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1120,
+        "engineHours": 99
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1020,
+      "2025-02": 966,
+      "2025-03": 1004
+    },
+    "averageFuelEfficiency": 2.9
+  },
+  {
+    "id": 5,
+    "totalDistanceKm": 20500,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1050,
+        "engineHours": 105
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 940,
+        "engineHours": 95
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1125,
+        "engineHours": 100
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1025,
+      "2025-02": 970,
+      "2025-03": 1010
+    },
+    "averageFuelEfficiency": 2.5
+  },
+  {
+    "id": 6,
+    "totalDistanceKm": 20600,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1060,
+        "engineHours": 106
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 948,
+        "engineHours": 96
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1130,
+        "engineHours": 101
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1030,
+      "2025-02": 974,
+      "2025-03": 1016
+    },
+    "averageFuelEfficiency": 2.6
+  },
+  {
+    "id": 7,
+    "totalDistanceKm": 20700,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1070,
+        "engineHours": 107
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 956,
+        "engineHours": 97
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1135,
+        "engineHours": 102
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1035,
+      "2025-02": 978,
+      "2025-03": 1022
+    },
+    "averageFuelEfficiency": 2.7
+  },
+  {
+    "id": 8,
+    "totalDistanceKm": 20800,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1080,
+        "engineHours": 108
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 964,
+        "engineHours": 98
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1140,
+        "engineHours": 103
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1040,
+      "2025-02": 982,
+      "2025-03": 1028
+    },
+    "averageFuelEfficiency": 2.8
+  },
+  {
+    "id": 9,
+    "totalDistanceKm": 20900,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1090,
+        "engineHours": 109
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 972,
+        "engineHours": 99
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1145,
+        "engineHours": 104
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1045,
+      "2025-02": 986,
+      "2025-03": 1034
+    },
+    "averageFuelEfficiency": 2.9
+  },
+  {
+    "id": 10,
+    "totalDistanceKm": 21000,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1100,
+        "engineHours": 110
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 980,
+        "engineHours": 100
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1150,
+        "engineHours": 105
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1050,
+      "2025-02": 990,
+      "2025-03": 1040
+    },
+    "averageFuelEfficiency": 2.5
+  },
+  {
+    "id": 11,
+    "totalDistanceKm": 21100,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1110,
+        "engineHours": 111
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 988,
+        "engineHours": 101
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1155,
+        "engineHours": 106
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1055,
+      "2025-02": 994,
+      "2025-03": 1046
+    },
+    "averageFuelEfficiency": 2.6
+  },
+  {
+    "id": 12,
+    "totalDistanceKm": 21200,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1120,
+        "engineHours": 112
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 996,
+        "engineHours": 102
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1160,
+        "engineHours": 107
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1060,
+      "2025-02": 998,
+      "2025-03": 1052
+    },
+    "averageFuelEfficiency": 2.7
+  },
+  {
+    "id": 13,
+    "totalDistanceKm": 21300,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1130,
+        "engineHours": 113
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1004,
+        "engineHours": 103
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1165,
+        "engineHours": 108
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1065,
+      "2025-02": 1002,
+      "2025-03": 1058
+    },
+    "averageFuelEfficiency": 2.8
+  },
+  {
+    "id": 14,
+    "totalDistanceKm": 21400,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1140,
+        "engineHours": 114
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1012,
+        "engineHours": 104
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1170,
+        "engineHours": 109
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1070,
+      "2025-02": 1006,
+      "2025-03": 1064
+    },
+    "averageFuelEfficiency": 2.9
+  },
+  {
+    "id": 15,
+    "totalDistanceKm": 21500,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1150,
+        "engineHours": 115
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1020,
+        "engineHours": 105
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1175,
+        "engineHours": 110
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1075,
+      "2025-02": 1010,
+      "2025-03": 1070
+    },
+    "averageFuelEfficiency": 2.5
+  },
+  {
+    "id": 16,
+    "totalDistanceKm": 21600,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1160,
+        "engineHours": 116
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1028,
+        "engineHours": 106
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1180,
+        "engineHours": 111
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1080,
+      "2025-02": 1014,
+      "2025-03": 1076
+    },
+    "averageFuelEfficiency": 2.6
+  },
+  {
+    "id": 17,
+    "totalDistanceKm": 21700,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1170,
+        "engineHours": 117
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1036,
+        "engineHours": 107
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1185,
+        "engineHours": 112
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1085,
+      "2025-02": 1018,
+      "2025-03": 1082
+    },
+    "averageFuelEfficiency": 2.7
+  },
+  {
+    "id": 18,
+    "totalDistanceKm": 21800,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1180,
+        "engineHours": 118
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1044,
+        "engineHours": 108
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1190,
+        "engineHours": 113
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1090,
+      "2025-02": 1022,
+      "2025-03": 1088
+    },
+    "averageFuelEfficiency": 2.8
+  },
+  {
+    "id": 19,
+    "totalDistanceKm": 21900,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1190,
+        "engineHours": 119
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1052,
+        "engineHours": 109
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1195,
+        "engineHours": 114
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1095,
+      "2025-02": 1026,
+      "2025-03": 1094
+    },
+    "averageFuelEfficiency": 2.9
+  },
+  {
+    "id": 20,
+    "totalDistanceKm": 22000,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1200,
+        "engineHours": 120
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1060,
+        "engineHours": 110
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1200,
+        "engineHours": 115
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1100,
+      "2025-02": 1030,
+      "2025-03": 1100
+    },
+    "averageFuelEfficiency": 2.5
+  },
+  {
+    "id": 21,
+    "totalDistanceKm": 22100,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1210,
+        "engineHours": 121
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1068,
+        "engineHours": 111
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1205,
+        "engineHours": 116
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1105,
+      "2025-02": 1034,
+      "2025-03": 1106
+    },
+    "averageFuelEfficiency": 2.6
+  },
+  {
+    "id": 22,
+    "totalDistanceKm": 22200,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1220,
+        "engineHours": 122
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1076,
+        "engineHours": 112
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1210,
+        "engineHours": 117
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1110,
+      "2025-02": 1038,
+      "2025-03": 1112
+    },
+    "averageFuelEfficiency": 2.7
+  },
+  {
+    "id": 23,
+    "totalDistanceKm": 22300,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1230,
+        "engineHours": 123
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1084,
+        "engineHours": 113
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1215,
+        "engineHours": 118
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1115,
+      "2025-02": 1042,
+      "2025-03": 1118
+    },
+    "averageFuelEfficiency": 2.8
+  },
+  {
+    "id": 24,
+    "totalDistanceKm": 22400,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1240,
+        "engineHours": 124
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1092,
+        "engineHours": 114
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1220,
+        "engineHours": 119
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1120,
+      "2025-02": 1046,
+      "2025-03": 1124
+    },
+    "averageFuelEfficiency": 2.9
+  },
+  {
+    "id": 25,
+    "totalDistanceKm": 22500,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1250,
+        "engineHours": 125
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1100,
+        "engineHours": 115
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1225,
+        "engineHours": 120
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1125,
+      "2025-02": 1050,
+      "2025-03": 1130
+    },
+    "averageFuelEfficiency": 2.5
+  },
+  {
+    "id": 26,
+    "totalDistanceKm": 22600,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1260,
+        "engineHours": 126
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1108,
+        "engineHours": 116
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1230,
+        "engineHours": 121
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1130,
+      "2025-02": 1054,
+      "2025-03": 1136
+    },
+    "averageFuelEfficiency": 2.6
+  },
+  {
+    "id": 27,
+    "totalDistanceKm": 22700,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1270,
+        "engineHours": 127
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1116,
+        "engineHours": 117
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1235,
+        "engineHours": 122
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1135,
+      "2025-02": 1058,
+      "2025-03": 1142
+    },
+    "averageFuelEfficiency": 2.7
+  },
+  {
+    "id": 28,
+    "totalDistanceKm": 22800,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1280,
+        "engineHours": 128
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1124,
+        "engineHours": 118
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1240,
+        "engineHours": 123
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1140,
+      "2025-02": 1062,
+      "2025-03": 1148
+    },
+    "averageFuelEfficiency": 2.8
+  },
+  {
+    "id": 29,
+    "totalDistanceKm": 22900,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1290,
+        "engineHours": 129
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1132,
+        "engineHours": 119
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1245,
+        "engineHours": 124
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1145,
+      "2025-02": 1066,
+      "2025-03": 1154
+    },
+    "averageFuelEfficiency": 2.9
+  },
+  {
+    "id": 30,
+    "totalDistanceKm": 23000,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1300,
+        "engineHours": 130
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1140,
+        "engineHours": 120
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1250,
+        "engineHours": 125
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1150,
+      "2025-02": 1070,
+      "2025-03": 1160
+    },
+    "averageFuelEfficiency": 2.5
+  },
+  {
+    "id": 31,
+    "totalDistanceKm": 23100,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1310,
+        "engineHours": 131
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1148,
+        "engineHours": 121
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1255,
+        "engineHours": 126
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1155,
+      "2025-02": 1074,
+      "2025-03": 1166
+    },
+    "averageFuelEfficiency": 2.6
+  },
+  {
+    "id": 32,
+    "totalDistanceKm": 23200,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1320,
+        "engineHours": 132
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1156,
+        "engineHours": 122
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1260,
+        "engineHours": 127
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1160,
+      "2025-02": 1078,
+      "2025-03": 1172
+    },
+    "averageFuelEfficiency": 2.7
+  },
+  {
+    "id": 33,
+    "totalDistanceKm": 23300,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1330,
+        "engineHours": 133
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1164,
+        "engineHours": 123
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1265,
+        "engineHours": 128
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1165,
+      "2025-02": 1082,
+      "2025-03": 1178
+    },
+    "averageFuelEfficiency": 2.8
+  },
+  {
+    "id": 34,
+    "totalDistanceKm": 23400,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1340,
+        "engineHours": 134
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1172,
+        "engineHours": 124
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1270,
+        "engineHours": 129
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1170,
+      "2025-02": 1086,
+      "2025-03": 1184
+    },
+    "averageFuelEfficiency": 2.9
+  },
+  {
+    "id": 35,
+    "totalDistanceKm": 23500,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1350,
+        "engineHours": 135
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1180,
+        "engineHours": 125
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1275,
+        "engineHours": 130
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1175,
+      "2025-02": 1090,
+      "2025-03": 1190
+    },
+    "averageFuelEfficiency": 2.5
+  },
+  {
+    "id": 36,
+    "totalDistanceKm": 23600,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1360,
+        "engineHours": 136
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1188,
+        "engineHours": 126
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1280,
+        "engineHours": 131
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1180,
+      "2025-02": 1094,
+      "2025-03": 1196
+    },
+    "averageFuelEfficiency": 2.6
+  },
+  {
+    "id": 37,
+    "totalDistanceKm": 23700,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1370,
+        "engineHours": 137
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1196,
+        "engineHours": 127
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1285,
+        "engineHours": 132
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1185,
+      "2025-02": 1098,
+      "2025-03": 1202
+    },
+    "averageFuelEfficiency": 2.7
+  },
+  {
+    "id": 38,
+    "totalDistanceKm": 23800,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1380,
+        "engineHours": 138
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1204,
+        "engineHours": 128
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1290,
+        "engineHours": 133
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1190,
+      "2025-02": 1102,
+      "2025-03": 1208
+    },
+    "averageFuelEfficiency": 2.8
+  },
+  {
+    "id": 39,
+    "totalDistanceKm": 23900,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1390,
+        "engineHours": 139
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1212,
+        "engineHours": 129
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1295,
+        "engineHours": 134
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1195,
+      "2025-02": 1106,
+      "2025-03": 1214
+    },
+    "averageFuelEfficiency": 2.9
+  },
+  {
+    "id": 40,
+    "totalDistanceKm": 24000,
+    "monthlyUsage": [
+      {
+        "month": "2025-01",
+        "distanceKm": 1400,
+        "engineHours": 140
+      },
+      {
+        "month": "2025-02",
+        "distanceKm": 1220,
+        "engineHours": 130
+      },
+      {
+        "month": "2025-03",
+        "distanceKm": 1300,
+        "engineHours": 135
+      }
+    ],
+    "fuelConsumptionLiters": {
+      "2025-01": 1200,
+      "2025-02": 1110,
+      "2025-03": 1220
+    },
+    "averageFuelEfficiency": 2.5
+  }
+]
